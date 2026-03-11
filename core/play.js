@@ -60,3 +60,10 @@ console.log(copiedArray);
 // spread operator
 const spreadOperator = [...hobbies];
 console.log(spreadOperator);
+
+// Rest operator
+const toArray = (...args) => {
+    return args;
+};
+
+console.log(toArray(1, 2, 3));
