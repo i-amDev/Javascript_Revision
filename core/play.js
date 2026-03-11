@@ -67,3 +67,34 @@ const toArray = (...args) => {
 };
 
 console.log(toArray(1, 2, 3));
+
+// De-structuring
+const obj = {
+    name : "Tony",
+    age : 55,
+    greet : function () {
+        console.log("Hello, My name is " + this.name);
+    }
+};
+
+const personName = (personData) => {
+    console.log(personData.name);
+}
+
+personName(obj);
+
+// De-structuring syntax
+const printName = ({ name, age }) => {
+    console.log("Name is " + name + " and age is " + age);
+}
+
+printName(obj);
+
+Another way
+const {name, age} = obj;
+console.log(name, age);
+
+// Array de-structuring
+const arr = [1, 2, 3, 4, 5];
+const [obj1, obj2] = arr;
+console.log(obj1, obj2);
