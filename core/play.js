@@ -41,3 +41,14 @@ const person = {
 };
 
 person.greet();
+
+// Arrays in JS
+
+let hobbies = ['Coding', 'Cricket', 'Gaming'];
+// for of loop
+for (let temp of hobbies) {
+    console.log(temp);
+}
+// map function always return new array
+console.log(hobbies.map(hobby => "Hobby : " + hobby));
+console.log(hobbies);
