@@ -53,7 +53,6 @@ for (let temp of hobbies) {
 console.log(hobbies.map(hobby => "Hobby : " + hobby));
 console.log(hobbies);
 
-
 // slice operator
 const copiedArray = hobbies.slice();
 console.log(copiedArray);
