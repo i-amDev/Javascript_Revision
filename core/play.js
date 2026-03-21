@@ -30,7 +30,6 @@ console.log(arrowFunction("Bruce", 45, true));
 
 // Object in JS
 
-
 const person = {
     name : "Tony",
     age : 55,
