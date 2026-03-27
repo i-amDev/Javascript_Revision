@@ -46,6 +46,7 @@ const person = {
 
 person.greet();
 
+
 // Arrays in JS
 let hobbies = ['Coding', 'Cricket', 'Gaming'];
 
