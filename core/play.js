@@ -52,6 +52,7 @@ person.greet();
 let hobbies = ['Coding', 'Cricket', 'Gaming'];
 
 // for of loop
+
 for (let temp of hobbies) {
     console.log(temp);
 }
