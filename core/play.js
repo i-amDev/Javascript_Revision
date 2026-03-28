@@ -96,6 +96,7 @@ const personName = (personData) => {
 
 personName(obj);
 
+
 // De-structuring syntax
 const printName = ({ name, age }) => {
     console.log("Name is " + name + " and age is " + age);
