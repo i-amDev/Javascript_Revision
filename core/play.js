@@ -19,7 +19,6 @@ const summarizeUserInConstant = function(userName, userAge, userHobby) {
     return "Name is " + userName + " Age is " + userAge + " and the user has hobbies " + userHobby;
 }
 
-
 console.log(summarizeUserInConstant("Steve", 80, true));
 
 const arrowFunction = (userName, userAge, userHobby) => {
@@ -43,6 +42,7 @@ const person = {
 person.greet();
 
 // Arrays in JS
+
 let hobbies = ['Coding', 'Cricket', 'Gaming'];
 
 // for of loop
