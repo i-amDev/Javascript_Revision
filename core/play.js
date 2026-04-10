@@ -95,6 +95,7 @@ const printName = ({ name, age }) => {
 printName(obj);
 
 // Another way
+
 const {name, age} = obj;
 console.log(name, age);
 
