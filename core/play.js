@@ -24,6 +24,7 @@ const summarizeUserInConstant = function(userName, userAge, userHobby) {
 
 console.log(summarizeUserInConstant("Steve", 80, true));
 
+
 const arrowFunction = (userName, userAge, userHobby) => {
     return "Name is " + userName + " Age is " + userAge + " and the user has hobbies " + userHobby;
 }
