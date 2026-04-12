@@ -86,6 +86,7 @@ const obj = {
 const personName = (personData) => {
     console.log(personData.name);
 }
+
 personName(obj);
 
 // De-structuring syntax
