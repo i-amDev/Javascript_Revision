@@ -40,6 +40,7 @@ const person = {
     }
 };
 
+
 person.greet();
 
 // Arrays in JS
