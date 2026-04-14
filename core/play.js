@@ -39,7 +39,6 @@ const person = {
     }
 };
 
-
 person.greet();
 
 
