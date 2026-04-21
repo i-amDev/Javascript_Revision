@@ -90,7 +90,6 @@ personName(obj);
 const printName = ({ name, age }) => {
     console.log("Name is " + name + " and age is " + age);
 }
-
 printName(obj);
 
 // Another way
