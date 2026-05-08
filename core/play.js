@@ -50,7 +50,6 @@ const person = {
         console.log("Hello, My name is " + this.name);
     }
 };
-
 person.greet();
 
 // Arrays in JS
