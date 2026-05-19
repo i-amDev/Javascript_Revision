@@ -122,6 +122,7 @@ console.log(name, age);
 // Array de-structuring
 
 const arr = [1, 2, 3, 4, 5];
+
 const [obj1, obj2] = arr;
 
 console.log(obj1, obj2);
