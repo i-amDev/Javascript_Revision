@@ -79,6 +79,7 @@ const copiedArray = hobbies.slice();
 console.log(copiedArray);
 
 // spread operator
+
 const spreadOperator = [...hobbies];
 console.log(spreadOperator);
 
