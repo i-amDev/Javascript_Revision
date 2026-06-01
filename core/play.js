@@ -92,6 +92,7 @@ const toArray = (...args) => {
 
 console.log(toArray(1, 2, 3));
 
+
 // De-structuring
 const obj = {
     name : "Tony",
