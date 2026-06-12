@@ -23,6 +23,7 @@ function summarizeUser(userName, userAge, userHobby) {
 
 console.log(summarizeUser("Tony", 50, false));
 
+
 const summarizeUserInConstant = function(userName, userAge, userHobby) {
     return "Name is " + userName + " Age is " + userAge + " and the user has hobbies " + userHobby;
 }
