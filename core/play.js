@@ -76,7 +76,6 @@ const obj = {
     }
 };
 
-
 const personName = (personData) => {
     console.log(personData.name);
 }
