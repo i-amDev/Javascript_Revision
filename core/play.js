@@ -1,5 +1,6 @@
 var name = 'JavaScript';
 
+
 let age = 25;
 
 let hasHobbies = false;
