@@ -80,7 +80,6 @@ const personName = (personData) => {
 }
 personName(obj);
 
-
 // De-structuring syntax
 
 const printName = ({ name, age }) => {
