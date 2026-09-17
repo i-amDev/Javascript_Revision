@@ -12,6 +12,7 @@ console.log('Hello JavaScript!');
 console.log(name);
 
 console.log(age);
+
 console.log(hasHobbies);
 
 function summarizeUser(userName, userAge, userHobby) {
