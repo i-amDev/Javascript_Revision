@@ -15,6 +15,7 @@ console.log(age);
 
 console.log(hasHobbies);
 
+
 function summarizeUser(userName, userAge, userHobby) {
     return "Name is " + userName + " Age is " + userAge + " and the user has hobbies " + userHobby;
 }
