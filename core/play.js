@@ -71,6 +71,7 @@ for (let temp of hobbies) {
 // map function always return new array
 
 console.log(hobbies.map(hobby => "Hobby : " + hobby));
+
 console.log(hobbies);
 
 // slice operator
