@@ -1,6 +1,5 @@
 var name = 'JavaScript';
 
-
 let age = 25;
 
 
