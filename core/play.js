@@ -87,6 +87,7 @@ console.log(spreadOperator);
 
 
 // Rest operator
+
 const toArray = (...args) => {
     return args;
 };
