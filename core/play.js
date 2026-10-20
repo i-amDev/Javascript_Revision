@@ -54,6 +54,7 @@ person.greet();
 
 
 // Arrays in JS
+
 let hobbies = ['Coding', 'Cricket', 'Gaming'];
 
 // for of loop
