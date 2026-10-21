@@ -73,6 +73,7 @@ console.log(hobbies);
 
 
 // slice operator
+
 const copiedArray = hobbies.slice();
 console.log(copiedArray);
 
