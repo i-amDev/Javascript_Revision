@@ -45,7 +45,6 @@ for (let temp of hobbies) {
     console.log(temp);
 }
 
-
 // map function always return new array
 
 console.log(hobbies.map(hobby => "Hobby : " + hobby));
