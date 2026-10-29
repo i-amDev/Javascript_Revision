@@ -58,7 +58,6 @@ const spreadOperator = [...hobbies];
 console.log(spreadOperator);
 
 // Rest operator
-
 const toArray = (...args) => {
     return args;
 };
